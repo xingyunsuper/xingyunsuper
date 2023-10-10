@@ -1,8 +1,8 @@
 
 
-# Hello world!
+# Hello
 
-This is Yun, a Master student at UChicago studying Applied Data Science. 
+I am Yun, a dreamer and thinker who is currently pursuing my Master's degree in Applied Data Science at UChicago 
 
 I have diverse project experiecens in the world of data science, including Time Series. Machine Learning, Deep Learning, Big Data, Natural Language Processing, Data Visualization, and Optimization. I always look forward to exploring the transformative potential of data, and I enjoy data projects that have a tangible impact on society. 
 
