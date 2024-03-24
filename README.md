@@ -2,7 +2,7 @@
 
 # Hello
 
-I am Yun, an alumna of the Master's degree program in Applied Data Science at UChicago.
+I am Yun, an alumna of UChicago and Notre Dame who recently completed my Master's degree in Applied Data Science.
 
 I have diverse project experiecens in the world of data science, including Time Series, Machine Learning, Deep Learning, Big Data, Natural Language Processing, Data Visualization, and Optimization. I always look forward to exploring the transformative potential of data, and I enjoy data projects that have a tangible impact on society. 
 
